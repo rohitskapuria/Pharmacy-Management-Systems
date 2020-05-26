@@ -1,2 +1,2 @@
-# sdms
-Student database management
+# Pharmacy Management Systems
+Pharmacy Management Systems
