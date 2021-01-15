@@ -1,4 +1,4 @@
-# Develop By Rohit Kapuria And Poonam Sakhare
+# Develop By Rohit Kapuria
 # This Coding is for Pharmacy Management System
 # Front-End Coding
 # Created in Python3.8
