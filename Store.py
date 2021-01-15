@@ -1,5 +1,5 @@
 # Inventorybckend
-# Created By Poonam Sakhare
+# Created By Rohit Kapuria
 # Sqlite3 Database of Pharmacy Management System
 import sqlite3
 
